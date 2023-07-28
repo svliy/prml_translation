@@ -1,2 +1,3 @@
 # prml_translation
-PRML的中文简体翻译。
+
+PRML 的中文简体翻译。
